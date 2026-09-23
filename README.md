@@ -17,7 +17,7 @@ Data source: Publicly available Australian television energy rating data.
 Data processing: Cleaned and analysed in Knime. Models were counted by technology, size and brand, and median or average power was calculated. Charts were exported as PNG.
 Privacy: The data describe TV models and not individuals. Thus, the site collects no user data.
 Accuracy and limitations: Values are reported by manufacturers through cover models, not sales. The real power used depends on the settings and viewing habits. Larger screens have few models.
-Ethics: The data are public and credited on the About Us page. Explanations describe patterns without endorsing any brand, and GenAI use is disclosed below.
+Ethics: The data are public and credited on the About Us page. Explanations describe patterns without endorsing any brand, and GenAI usage is disclosed below.
 
 Usage of GenAI:
 - GenAI was used during the debugging of the CSS codes, especially at the @media rules for 768px and 500. It was used to properly code the website's responsiveness to achieve the proper collapsiing of the information cards at homepage and also the navigation bar as the screen size decrease or is minimized.
