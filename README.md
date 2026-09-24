@@ -6,6 +6,7 @@ Overview of the Website:
 This website is an educational website that showcases household appliance energy consumption in the Australian market, with a focus in television energy data.
 
 How to Run:
+Website: https://t03-104395111.vercel.app/
 Open the index.html through the link provided in a browser.
 
 Data Story:
